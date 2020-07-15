@@ -18,11 +18,11 @@ We save more research and development costs for digital panel manufacturers, exp
 
 ### painting test
 * Quick painting
-![20200412183303768.gif](README_files/20200412183303768.gif)
+![20200412183303768.gif](https://github.com/jasonsalex/Digital-panel-driver/blob/master/README_files/20200412183303768.gif)
 
 
 * Slow painting
-![2020041218335665.gif](README_files/2020041218335665.gif)
+![2020041218335665.gif](https://github.com/jasonsalex/Digital-panel-driver/blob/master/README_files/2020041218335665.gif)
 
 ### Introduction to Source Code
 #### windows
@@ -44,7 +44,7 @@ We save more research and development costs for digital panel manufacturers, exp
 * PaintToolSai
 * SketchBook
 * windows lnk(win10)
-![在这里插入图片描述](README_files/0.4287258613645628.png)
+![在这里插入图片描述](https://github.com/jasonsalex/Digital-panel-driver/blob/master/README_files/0.4287258613645628.png)
 
 
 #### List of macOS tests
@@ -63,7 +63,7 @@ We save more research and development costs for digital panel manufacturers, exp
 * Special key settings
 ##### Work area display
 * Screen identification, drag-able mapping area, digital board rotation, etc
-![1f4c65c6-7b25-4a8c-86a6-a041cf304941.jpg](README_files/1f4c65c6-7b25-4a8c-86a6-a041cf304941.jpg)
+![1f4c65c6-7b25-4a8c-86a6-a041cf304941.jpg](https://github.com/jasonsalex/Digital-panel-driver/blob/master/README_files/1f4c65c6-7b25-4a8c-86a6-a041cf304941.jpg)
 
 
 ###### Digital pen setting display
