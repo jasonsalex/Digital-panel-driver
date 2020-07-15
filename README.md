@@ -18,12 +18,10 @@ We save more research and development costs for digital panel manufacturers, exp
 
 ### painting test
 * Quick painting
-![20200412183303768.gif](https://github.com/jasonsalex/Digital-panel-driver/blob/master/README_files/20200412183303768.gif)
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200715173617328.gif)
 
 * Slow painting
-![2020041218335665.gif](https://github.com/jasonsalex/Digital-panel-driver/blob/master/README_files/2020041218335665.gif)
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200715173639569.gif)
 ### Introduction to Source Code
 #### windows
 ##### Source code contains 3 modules, with low coupling
@@ -44,8 +42,7 @@ We save more research and development costs for digital panel manufacturers, exp
 * PaintToolSai
 * SketchBook
 * windows lnk(win10)
-![在这里插入图片描述](https://github.com/jasonsalex/Digital-panel-driver/blob/master/README_files/0.4287258613645628.png)
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200715173702321.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)
 
 #### List of macOS tests
 * Artrage_5.0.4
@@ -63,20 +60,20 @@ We save more research and development costs for digital panel manufacturers, exp
 * Special key settings
 ##### Work area display
 * Screen identification, drag-able mapping area, digital board rotation, etc
-![1f4c65c6-7b25-4a8c-86a6-a041cf304941.jpg](https://github.com/jasonsalex/Digital-panel-driver/blob/master/README_files/1f4c65c6-7b25-4a8c-86a6-a041cf304941.jpg)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200715173730108.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)
 
 
 ###### Digital pen setting display
 * Support pen tip induction settings and pen pressure settings.
 * Keyboard settings, special keyboard settings. switch screen. switch brush and other functions of the digital panel
 * Multiple drawing modes
-![37ee405f-a8cb-49b1-85d7-f436c39bbabf.png](README_files/37ee405f-a8cb-49b1-85d7-f436c39bbabf.png)
-![e669ba5d-04b5-4b2f-af6a-4b79443116d7.png](README_files/e669ba5d-04b5-4b2f-af6a-4b79443116d7.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/202007151738245.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2020071517382432.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)
+
 ##### Shortcut interface display
 * Support shortcut key real-time display
 * Multiple key combination settings
 * Special shortcut key settings. screen switch. brush switch and other functions
-![12b4b556-def0-400d-80be-e7680b1deaf6.png](README_files/12b4b556-def0-400d-80be-e7680b1deaf6.png)
 
-
-![4a14c4e9-3fcb-4bd9-a7f1-7d81e09df1b9.png](README_files/4a14c4e9-3fcb-4bd9-a7f1-7d81e09df1b9.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200715173946702.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200715173957455.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1J1U2hyb29N,size_16,color_FFFFFF,t_70)
