@@ -1,6 +1,6 @@
 We save more research and development costs for digital panel manufacturers, expanding our own market competitiveness. Our digital panel drivers work better than other manufacturers with strong compatibility, and we use completely independent research and development technology with source code. We don't use wacom proprietary technology. At present, several manufacturers in China are using our driving technology, and the sales volume and reputation are very good.
-* **Drive authorization, customized development, please contact : [531401335@qq.com **](mailto:531401335@qq.com**)
-* **WeChat : xinhuitech **
+* Drive authorization, customized development, please contact : [531401335@qq.com](mailto:531401335@qq.com)
+* WeChat : xinhuitech
 
 
 ### characteristics
